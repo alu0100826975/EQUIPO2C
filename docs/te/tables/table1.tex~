@@ -1,0 +1,26 @@
+\begin{table}[!h]
+\begin{center}
+% \label{Mitabla}
+
+\begin{tabular}{cccc}
+
+Valor inicial & Tiempo de CPU al ejecutarse 100000\\
+
+\hline
+# 1   2, 3,  4, 5, 6, 6.5, 7, 7.35, 
+1 & 0.1154410839 \\
+2 & 0.5907168388 \\
+3 & 0.6773560047 \\
+4 & 0.5563027859 \\
+5 & 0.7719118595 \\
+6 & 0.9161560535 \\
+6.5 & 0.8663120270 \\
+7 & 0.9962458611 \\
+7.35 & 1.3717629910\\ 
+
+
+\end{tabular}
+\end{center}
+\caption{Resultados tiempo CPU}
+\label{tab:1}
+\end{table} 

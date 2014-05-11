@@ -62,7 +62,7 @@ Los resultados se han almacenado en la siguiente tabla:
 
 \input{tables/table1.tex}
 
-
+Estos resultados se han representado en la siguiente gráfica:
 
 \begin{figure}[!th]
 
@@ -78,13 +78,12 @@ Los resultados se han almacenado en la siguiente tabla:
 
 \end{figure} 
 
-
+Esta figura se ha realizado con mathplotlib. En el apéndice \ref{Apendicecpu} se puede consultar el código.
 
 Nótese que se ha introducido como valor máximo al explicar el tiempo de ejecución el valor de 7.389. Esto es debido a que a partir de este valor, las aproximaciones en vez de acercarse al 1.00000 se alejan, por lo que llega un momento en el que el valor de x es tan grande, que se produce una división por cero al evaluar la expresión $\frac{log(x)}{(1/x)}$. Por lo tanto, como x es muy grande el cociente $\frac{1}{x}$ tiende a 0 y la división principal provoca el error.
 
-Estos resultados se han representado en la siguiente gráfica:
 
-Esta figura se ha realizado con mathplotlib. En el apéndice \ref{Apendicecpu} se puede consultar el código.
+
 
 
 

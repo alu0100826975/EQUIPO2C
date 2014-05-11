@@ -2,14 +2,14 @@
 % Capítulo 1: Motivación y Objetivos
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-El objetivo propuesto es obtener los conocimientos necesarios para desarrollar un informe tecnico-científico usando latex, así como lograr un código en python que nos permita obtener la raíz de una función haciendo uso del método de Newton.El método de Newton-Raphson es un método iterativo qara aproximar la solución de una ecuación del tipo $f(x) = 0$. En el caso propuesto, la función tratada será $f(x)=log (x)$. 
+El objetivo propuesto es obtener los conocimientos necesarios para desarrollar un informe tecnico-científico usando latex, así como lograr un código en python que nos permita obtener la raíz de una función haciendo uso del método de Newton.El método de Newton-Raphson es un método iterativo qara aproximar la solución de una ecuación del tipo $f(x) = 0$. En el caso propuesto, la función tratada será f(x)=ln x. 
 
 \begin{itemize}
   \item Objetivo principal: Implementación con Python del método de Newton.
   \item Objetivo específico: Cómo se comporta el método de Newton aplicado a la función $f(x)=log(x)$.
 \end{itemize}
 
-El procedimiento será descrito de en un artículo realizado con el procesador de texto Latex y Beamer, una clase de documento especialmente diseñada para presentaciones que utilicen recursos Latex.
+El procedimiento será descrito de en un artículo realizado con el procesador de texto latex y Beamer, una clase de documento especialmente diseñada para presentaciones que utilicen recursos LATEX.
 
 %---------------------------------------------------------------------------------
 \section{$\LaTeX$}

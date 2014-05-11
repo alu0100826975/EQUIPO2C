@@ -25,4 +25,4 @@ $ f(a) \times f'(a) > 0$,  o que
 $ f(b) \times f'(b) > 0$
 \end{center}
 
-Eligiendo como  valor inicial el extremo del intervalo que cumpla que ese producto es positivo está asegurado que el método converge a la única solución de la ecuación en [a,b].
+Eligiendo como  valor inicial el extremo del intervalo que cumpla que ese producto es positivo está asegurado que el método converge a la única solución de la ecuación en [ a,b ].

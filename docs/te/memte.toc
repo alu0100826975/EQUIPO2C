@@ -1,0 +1,19 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Motivaci\'on y objetivos}{1}
+\contentsline {section}{\numberline {1.1}$\textlatin {\LaTeX }$}{1}
+\contentsline {section}{\numberline {1.2}Beamer}{1}
+\contentsline {chapter}{\numberline {2}Fundamentos te\'oricos}{3}
+\contentsline {section}{\numberline {2.1}Fundamentos Te\'oricos}{3}
+\contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
+\contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{4}
+\contentsline {section}{\numberline {3.2}Descripci\'on del material}{4}
+\contentsline {section}{\numberline {3.3}Resultados obtenidos}{5}
+\contentsline {section}{\numberline {3.4}An\'alisis de los resultados}{5}
+\contentsline {chapter}{\numberline {4}Conclusiones}{8}
+\contentsline {chapter}{\numberline {A}C\'odigos en Python}{9}
+\contentsline {section}{\numberline {A.1}C\'alculo de la ra\IeC {\'\i }z por el m\'etodo de Newton}{9}
+\contentsline {section}{\numberline {A.2}Tiempo de CPU}{10}
+\contentsline {chapter}{\numberline {B}C\'odigos en Mathplotlib}{11}
+\contentsline {section}{\numberline {B.1}C\'odigos en mathplotlib: gr\'afico $log (x)$}{11}
+\contentsline {section}{\numberline {B.2}C\'odigo en mathplotlib:grafico tiempo CPU}{11}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{12}

@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{newton:2003}
+Daniel Francisco~Campos Aranda.
+\newblock {\em Método de Newton}.
+\newblock Writing guides. Reference. Universidad de Cadiz. Servicio de
+  Publicaciones., 2003.
+
+\bibitem{python:2009}
+J.~Gibaldi.
+\newblock {\em Tutorial de Python}.
+\newblock Writing guides. Reference. Modern Language Association of America,
+  2009.
+
+\bibitem{Lamport:LDP94}
+Leslie Lamport.
+\newblock {\em \LaTeX: A Document Preparation System}.
+\newblock Addison--Wesley Pub.\ Co., Reading, MA, 1986.
+
+\bibitem{latex:2009}
+Juan Antonio~Navarro Perez.
+\newblock {\em Tutorial de Latex}.
+\newblock Writing guides. Reference. Paquillo Dubois, 2009.
+
+\end{thebibliography}

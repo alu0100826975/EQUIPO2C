@@ -8,4 +8,4 @@
   \item El programa diseñado actúa con eficiencia, sin embargo, el tiempo de CPU necesarió será mayor cuando la aproximación inicial de la raíz se aleje de la misma.
   \item La elección de un buen valor como aproximación inicial de la raíz es importante para que el programa funcione correctamente. Se han desarrollado los puntos a tener en cuenta para elegir de forma correcta el valor inicial, consiguiendose resultados más precisos.
   \item A partir del valor 7.389, las aproximaciones en vez de acercarse al 1.00000 se alejan, por lo que llega un momento en el que el valor de x es tan grande, que se produce una división por cero al evaluar la expresión $\frac{log(x)}{(1/x)}$. Por lo tanto, como x es muy grande el cociente $\frac{1}{x}$ tiende a 0 y la división principal provoca el error.
-\end{itemize}
+  \end{itemize}

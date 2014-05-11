@@ -1,0 +1,14 @@
+#-*- encoding: utf-8 -*-
+#!/src/bin/python
+
+import timeit
+
+t = timeit.Timer('newton(7.389)', setup='from metodo2 import newton')
+print "Al ejecutarse el código 100000 veces desde el valor  se tarda %.10f" % t.timeit(100000)
+
+
+# 1   2, 3,  4, 5, 6, 6.5, 7, 7.35, 
+# 0.1154410839 0.5907168388  0.6773560047  0.5563027859 0.7719118595 0.9161560535 0.8663120270 0.9962458611 1.3717629910 1.3717629910
+
+
+

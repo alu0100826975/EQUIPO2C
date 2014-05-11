@@ -1,44 +1,3 @@
-\section{Códigos en mathplotlib: gráfico $log (x)$}
-\label{Apendicelog}
-
-\begin{center}
-\begin{footnotesize}
-
-\begin{verbatim}
-import matplotlib.pylab as pl
-import numpy as np
-from math import log
-
-pl.figure(figsize=(8,6), dpi=80)
-
-
-
-X = np.linspace(0, 5, 256, endpoint=True)
-C =np.log(X)
-
-
-pl.plot(X,C, color="green", linewidth=2.5, linestyle="-", label="Ln")
-pl.legend(loc='lower right')
-pl.xlim(-0.5,5.5)
-
-pl.ylim(-4.5,2.5)
-pl.title("Representacion grafica")
-
-pl.savefig("ln.eps", dpi=72)
-
-pl.show()
-\end{verbatim}
-
-\end{footnotesize}
-\end{center}
-
-\section{Código en mathplotlib:grafico tiempo CPU}
-\label{Apendicecpu}
-
-\begin{center}
-\begin{footnotesize}
-
-\begin{verbatim}
 
 import matplotlib.pylab as pl
 import numpy as np
@@ -67,8 +26,6 @@ pl.ylim(0.0, 1.7)
 # mostrar por la consola el resultado
 pl.savefig("time.eps", dpi=72)
 pl.show()
-\end{verbatim}
 
 
-\end{footnotesize}
-\end{center}
+

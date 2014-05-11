@@ -1,5 +1,5 @@
 \section{Códigos en mathplotlib: gráfico $log (x)$}
-\label{Apendicelog}
+\label{Apendice2:label}
 
 \begin{center}
 \begin{footnotesize}
@@ -33,7 +33,7 @@ pl.show()
 \end{center}
 
 \section{Código en mathplotlib:grafico tiempo CPU}
-\label{Apendicecpu}
+\label{Apendice2:label2}
 
 \begin{center}
 \begin{footnotesize}
